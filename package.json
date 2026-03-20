@@ -1,5 +1,5 @@
 {
-  "name": "pascal2kebab-cli",
+  "name": "@kszongic/pascal2kebab-cli",
   "version": "1.0.0",
   "description": "Convert PascalCase and camelCase strings to kebab-case from the command line. Zero dependencies.",
   "main": "index.js",
