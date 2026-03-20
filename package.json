@@ -1,0 +1,20 @@
+{
+  "name": "pascal2kebab-cli",
+  "version": "1.0.0",
+  "description": "Convert PascalCase and camelCase strings to kebab-case from the command line. Zero dependencies.",
+  "main": "index.js",
+  "bin": {
+    "pascal2kebab": "./index.js"
+  },
+  "scripts": {
+    "test": "node index.js MyComponent"
+  },
+  "keywords": ["pascal-case", "kebab-case", "convert", "case", "string", "cli", "camelcase"],
+  "author": "kszongic",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kszongic/pascal2kebab-cli"
+  },
+  "files": ["index.js", "README.md", "LICENSE"]
+}
